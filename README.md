@@ -35,3 +35,5 @@ py main.py
 Linux/macOS:
 
 python3 main.py
+
+The main.py will create a web Interface to copy things (text only) and then automatically starts to type when you press the type button (5 secs delay for switching to the Code editor/Notepad), open the webUI on mobile device and start to type enjoy :)
